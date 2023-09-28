@@ -9,4 +9,6 @@ random_range = rand.randint(1,10)
 #now lets do some calculations using this random number
 passowrd = str(random_range) + " hello i am random"
 
+email = "hello@gmail.com"
+
 print(random_num, random_range)
